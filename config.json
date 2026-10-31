@@ -1,0 +1,43 @@
+{
+  "code": "GIMHAE",
+  "title": "SMASH GIMHAE",
+  "school": "김해대",
+  "fullName": "김해대학교",
+  "campusName": "김해대학교",
+  "tagline": "김해대를 부셔 (시험기간 스트레스 해소)",
+  "description": "김해대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 김해대학교 3D 화면과 SMASH GIMHAE 제목",
+  "url": "https://hong-iron.github.io/SMASH-GIMHAE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 987614365
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.2523476,
+        128.9136731
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — C동 동남쪽 비탈 자리로, 브이월드 항공사진과 다른 날짜의 Esri 사진 둘 다 지붕 없이 나무와 비탈만 보이고 브이월드 기록도 이름·용도·사용승인일이 없다."
+    }
+  ],
+  "look": {
+    "C동 정의관": {
+      "style": "stone",
+      "wall": "#b8c0c8",
+      "glass": "#3a4a58",
+      "frame": "#e4e8ec"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
