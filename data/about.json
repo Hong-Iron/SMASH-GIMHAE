@@ -1,0 +1,34 @@
+{
+ "region": "경남 김해시 삼방동",
+ "nameEn": "Gimhae College",
+ "added": "2026-11-01T02:27",
+ "rank": 330,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "INJE",
+   "campus": "인제대학교 김해캠퍼스",
+   "km": 1.0
+  },
+  {
+   "code": "GAYA",
+   "campus": "가야대학교",
+   "km": 4.1
+  },
+  {
+   "code": "BPU",
+   "campus": "부산장신대학교",
+   "km": 4.6
+  },
+  {
+   "code": "PNU-YANGSAN",
+   "campus": "부산대학교 양산캠퍼스",
+   "km": 11.5
+  },
+  {
+   "code": "SILLA",
+   "campus": "신라대학교",
+   "km": 12.3
+  }
+ ]
+}
